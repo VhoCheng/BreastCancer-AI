@@ -157,3 +157,55 @@ Several important observations emerge from the experiments:
 These properties are important for **medical AI applications where transparency and trust are required**.
 
 ---
+
+---
+
+# Research Context
+
+This project was developed as part of an exploration into **interpretable medical artificial intelligence systems**.
+
+The focus is on demonstrating how **classical machine learning approaches can remain highly competitive for structured biomedical datasets** while maintaining transparency and reproducibility.
+
+---
+
+# Future Work
+
+Potential extensions include:
+
+- Cross-validation for more robust performance estimation
+- Probability calibration for clinical risk prediction
+- External validation on independent cohorts
+- Integration with imaging features
+- Multimodal medical AI models
+
+---
+
+# References
+
+1. Wolberg W., Mangasarian O., Street N., Street W.  
+Breast Cancer Wisconsin (Diagnostic) Dataset  
+UCI Machine Learning Repository.
+
+2. Street W. N., Wolberg W. H., Mangasarian O. L.  
+Nuclear Feature Extraction for Breast Tumor Diagnosis.  
+SPIE Biomedical Imaging.
+
+3. Pedregosa F. et al.  
+Scikit-learn: Machine Learning in Python.  
+Journal of Machine Learning Research.
+
+---
+
+# License
+
+This project is released under the MIT License.
+
+---
+
+# Author
+
+Weihao Cheng  
+Hangzhou Dianzi University  
+
+School of Communication Engineering  
+School of Computer Science and Technology
