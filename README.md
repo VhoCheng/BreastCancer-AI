@@ -158,7 +158,6 @@ These properties are important for **medical AI applications where transparency 
 
 ---
 
----
 
 # Research Context
 
@@ -209,3 +208,10 @@ Hangzhou Dianzi University
 
 School of Communication Engineering  
 School of Computer Science and Technology
+
+## Citation
+
+If you find this project useful, please cite:
+
+Cheng, W.  
+Interpretable Machine Learning for Breast Tumor Classification using the Wisconsin Diagnostic Dataset.
